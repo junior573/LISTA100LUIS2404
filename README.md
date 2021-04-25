@@ -22,8 +22,10 @@ http://udq.me:80/WW3dPGcKcQ/1162706429/2275
 http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7842.ts
 
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imgur.com/G8g8MTF.jpg",GLOBO BRASILIA SD
-http://cloud-nany.cc:80/AndersonOrtis/ufgTOIEXGw/8055
+http://dns.xcrv.xyz:80/GuilhermeAraujoCecilio/Cecilio2212/43263
 
+#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imgur.com/G8g8MTF.jpg",GLOBO TESTE SD
+http://ip.sltv.xyz:8080/ipeuSKSb8h/D0hPhwQSS4/242023
 
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imgur.com/G8g8MTF.jpg",BBB CAMERA PRINCIPAL HD
 http://45.235.3.130:25461/live/davidluanRIBEIRONET/NgsxQRWZYS/777.m3u8
@@ -58,7 +60,7 @@ https://tvbrasil-stream.ebc.com.br:443/STsEBCLIVE_720/index.m3u8
 https://streaming03.zas.media:443/tvfuturo/tvfuturo/chunklist_w1073489545.m3u8
 
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imgur.com/G8g8MTF.jpg",TV CULTURA PARA HD
-http://sv1.myiptv4k.top:8080/joelsondrigu/3476109812/17753
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 
 #EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imgur.com/G8g8MTF.jpg",TV CULTURA HD
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
